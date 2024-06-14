@@ -9,10 +9,6 @@
     ],
     "module": "ESNext",
     "skipLibCheck": true,
-    "baseUrl": "./",
-    "typeRoots": [
-      "types/types.d.ts"
-    ],
     /* Bundler mode */
     "moduleResolution": "node",
     "allowImportingTsExtensions": true,
